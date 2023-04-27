@@ -11,15 +11,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=waving?text=Welcome!)
+-->🏎️👩‍💻
+![header](https://capsule-render.vercel.app/api?type=waving&color=006400&text=Welcome!&fontColor=F0FFF0)
 
 ### Welcome! 🤗
 ### I'm Yeonsoo, Kang
 
 <br>
 
+## 👩‍💻 Tech Stack
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">   <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=reactnative&logoColor=black"> 
+<br> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+
+<br>
+
 ## ✏️ Experience
+
 EWHA Womans University, Computer Science Engineering  (2020.03 ~ PRESNET)
 
 EHWA WI-CORPS start-up competition, I-CORE course (2021.12 ~ 2022.2)
@@ -36,3 +46,20 @@ Management Member of Cotato IT Club. (2023.02 ~ PRESNET)
 TOPCIT LEVEL 3. (2022.11)
 
 2022 Ewha Engineering Capstone Design Contest Second Prize  (2022.12)
+
+<br><br>
+
+
+
+## 💌 Contact Me
+[![Tech Blog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kang1221/)](https://velog.io/@kang1221/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang6@ewhain.net)](mailto:kimsh1691@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjslou@naver.com)](mailto:rlatngus1691@naver.com)
+
+<br> <br>
+
+
+<br>
+
+![Yeonsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang1221&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyssa0606)](https://solved.ac/kyssa0606/)
+
