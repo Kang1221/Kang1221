@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving/api?text=Welcome!)
+![header](https://capsule-render.vercel.app/api?type=waving?text=Welcome!)
 
 ### Welcome! 🤗
 ### I'm Yeonsoo, Kang
@@ -32,7 +32,7 @@ Management Member of Cotato IT Club. (2023.02 ~ PRESNET)
 
 <br>
 
-## Awards
+## 🏆 Awards
 TOPCIT LEVEL 3. (2022.11)
 
 2022 Ewha Engineering Capstone Design Contest Second Prize  (2022.12)
