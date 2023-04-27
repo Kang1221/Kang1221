@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->🏎️👩‍💻
+-->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=006400&text=Welcome!&fontColor=F0FFF0)
 
 ### Welcome! 🤗
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 <br> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
 <br>
+
 
 ## ✏️ Experience
 
