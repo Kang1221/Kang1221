@@ -38,6 +38,8 @@ EWHA Womans University, Computer Science Engineering  (2020.03 ~ PRESNET)
 
 EHWA WI-CORPS start-up competition, I-CORE course (2021.12 ~ 2022.2)
 
+DeepDaiv textmining course (2022.01 ~ 2022.03)                              
+
 EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course  (2022.07)
 
 Member of Cotato IT Club  (2022.09~ 2023.02)
