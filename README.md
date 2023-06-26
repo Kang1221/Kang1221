@@ -45,12 +45,16 @@ Member of Cotato IT Club  (2022.09~ 2023.02)
 
 Management Member of Cotato IT Club. (2023.02 ~ PRESNET)
 
+SKT fly AI 3rd semester (2023.06 ~ PRESENT)
+
 <br>
 
 ## 🏆 Awards
 TOPCIT LEVEL 3. (2022.11)
 
 2022 Ewha Engineering Capstone Design Contest Second Prize  (2022.12)
+
+ 
 
 <br><br>
 
