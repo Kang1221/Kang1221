@@ -53,11 +53,12 @@ SKT fly AI 3rd semester (2023.06 ~ PRESENT)
 
 <br>
 
-## 🏆 Awards
+## 🏆 Certifications & Awards
 TOPCIT LEVEL 3. (2022.11)
 
 2022 Ewha Engineering Capstone Design Contest Second Prize  (2022.12)
 
+2023 Ewha Womans University capstone design project poster session Second Prize (2023.6)
  
 
 <br><br>
