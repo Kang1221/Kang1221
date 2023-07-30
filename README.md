@@ -74,6 +74,5 @@ TOPCIT LEVEL 3. (2022.11)
 
 
 <br>
-
-![Yeonsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang1221&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyssa0606)](https://solved.ac/kyssa0606/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyssa0606)](https://solved.ac/kyssa0606/)
 
