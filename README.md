@@ -56,6 +56,8 @@ SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 ## 🏆 Certifications & Awards
 TOPCIT LEVEL 3. (2022.11)
 
+Microsoft Certified: Azure AI Fundamentals (2023.08)
+
 2022 Ewha Engineering Capstone Design Contest Second Prize  (2022.12)
 
 2023 Ewha Womans University capstone design project poster session Second Prize (2023.6)
