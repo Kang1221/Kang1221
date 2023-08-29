@@ -49,7 +49,7 @@ Preparatory committee for Data Conference 데이터야놀자 (2023.05 ~ PRESENT)
   
 SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 
-GDSC EWHA 5th Core Memember (2023.08 ~ PRESENT)
+Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
 
 
 
