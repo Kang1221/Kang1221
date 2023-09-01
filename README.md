@@ -63,7 +63,8 @@ Microsoft Certified: Azure AI Fundamentals (2023.08)
 2022 Ewha Engineering Capstone Design Contest Second Prize  (2022.12)
 
 2023 Ewha Womans University capstone design project poster session Second Prize (2023.6)
- 
+
+2023 SKT FLY AI 3rd First Place for team project
 
 <br><br>
 
