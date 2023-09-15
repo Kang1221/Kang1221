@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=006400&text=Welcome!&fontColor=F0FFF0)
 
 ### Welcome! 🤗
-### I'm Yeonsoo, Kang
+### I'm Yeonsoo, Kang who is interested in Java Spring boot🌿. 
 
 <br>
 
@@ -60,11 +60,11 @@ TOPCIT LEVEL 3. (2022.11)
 
 Microsoft Certified: Azure AI Fundamentals (2023.08)
 
-2022 Ewha Engineering Capstone Design Contest Second Prize  (2022.12)
+2022 Ewha Engineering Capstone Design Contest Second Place  (2022.12)
 
-2023 Ewha Womans University capstone design project poster session Second Prize (2023.6)
+2023 Ewha Womans University capstone design project poster session Second Place (2023.06)
 
-2023 SKT FLY AI 3rd First Place for team project
+2023 SKT FLY AI 3rd First Place for team project (2023.08)
 
 <br><br>
 
