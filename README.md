@@ -51,7 +51,7 @@ SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 
 Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
 
-AWS Student Club 1st Memember (2023.09 ~ PRESENT)
+AWS Student Clubs EWHA 1st Memember (2023.09 ~ PRESENT)
 
 
 <br>
