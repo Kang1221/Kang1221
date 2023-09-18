@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 EWHA Womans University, Computer Science Engineering  (2020.03 ~ PRESNET)
 
-EHWA WI-CORPS start-up competition, I-CORE course (2021.12 ~ 2022.2)
+EWHA WI-CORPS start-up competition, I-CORE course (2021.12 ~ 2022.2)
 
 DeepDaiv textmining course (2022.01 ~ 2022.03)                              
 
@@ -61,9 +61,9 @@ TOPCIT LEVEL 3. (2022.11)
 
 Microsoft Certified: Azure AI Fundamentals (2023.08)
 
-2022 Ewha Engineering Capstone Design Contest Second Place  (2022.12)
+2022 EWHA Engineering Capstone Design Contest Second Place  (2022.12)
 
-2023 Ewha Womans University capstone design project poster session Second Place (2023.06)
+2023 EWHA Womans University capstone design project poster session Second Place (2023.06)
 
 2023 SKT FLY AI 3rd First Place for team project (2023.08)
 
