@@ -53,6 +53,8 @@ Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
 
 AWS Student Clubs EWHA 1st Memember (2023.09 ~ PRESENT)
 
+Goormthon univ. EWHA university Management member (2023.10 ~ PRESENT)
+
 
 <br>
 
@@ -65,7 +67,7 @@ Microsoft Certified: Azure AI Fundamentals (2023.08)
 
 2023 EWHA Womans University capstone design project poster session Second Place (2023.06)
 
-2023 SKT FLY AI 3rd First Place for team project (2023.08)
+2023 SKT FLY AI 3rd semester First Place for team project (2023.08)
 
 <br><br>
 
