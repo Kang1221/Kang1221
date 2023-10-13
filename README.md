@@ -53,7 +53,7 @@ Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
 
 AWS Student Clubs EWHA 1st Memember (2023.09 ~ PRESENT)
 
-Goormthon univ. EWHA university Management member (2023.10 ~ PRESENT)
+Goormthon univ. EWHA 1st Memember  (2023.10 ~ PRESENT)
 
 
 <br>
