@@ -49,6 +49,8 @@ Preparatory committee for Data Conference 데이터야놀자 (2023.05 ~ PRESENT)
   
 SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 
+Tech4Good Hackathon from SK Telecom & HANA Financial Group (2023.09)
+
 Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
 
 AWS Student Clubs EWHA 1st Memember (2023.09 ~ PRESENT)
