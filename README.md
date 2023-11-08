@@ -45,7 +45,7 @@ Member of Cotato IT Club  (2022.09~ 2023.02)
 
 Management Member of Cotato IT Club (2023.02 ~ 2023.06)
 
-Preparatory committee for Data Conference 데이터야놀자 (2023.05 ~ PRESENT)
+Preparatory committee for Data Conference 데이터야놀자 (2023.05 ~ 2023.10)
   
 SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 
