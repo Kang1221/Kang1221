@@ -53,7 +53,7 @@ Tech4Good Hackathon from SK Telecom & HANA Financial Group (2023.09)
 
 Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
 
-AWS Student Clubs EWHA 1st Memember (2023.09 ~ PRESENT)
+AWS Cloud Clubs EWHA 1st Memember (2023.09 ~ PRESENT)
 
 Goormthon univ. EWHA 1st Memember  (2023.10 ~ PRESENT)
 
@@ -70,6 +70,8 @@ Microsoft Certified: Azure AI Fundamentals (2023.08)
 2023 EWHA Womans University capstone design project poster session Second Place (2023.06)
 
 2023 SKT FLY AI 3rd semester First Place for team project (2023.08)
+
+Goormthon univ. 1st semester Third Place (2023.11)
 
 <br><br>
 
