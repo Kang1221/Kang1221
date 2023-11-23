@@ -51,11 +51,12 @@ SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 
 Tech4Good Hackathon from SK Telecom & HANA Financial Group (2023.09)
 
+Goormthon univ. EWHA 1st Memember  (2023.10 ~ 2023.12)
+
 Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
 
 AWS Cloud Clubs EWHA 1st Memember (2023.09 ~ PRESENT)
 
-Goormthon univ. EWHA 1st Memember  (2023.10 ~ PRESENT)
 
 
 <br>
