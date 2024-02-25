@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=006400&text=Welcome!&fontColor=F0FFF0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=006400&text=It's Yeonsoo's github!&fontColor=F0FFF0)
 
 ### Welcome! 🤗
 ### I'm Yeonsoo, Kang who is interested in Java Spring boot🌿. 
