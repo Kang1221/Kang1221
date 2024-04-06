@@ -102,6 +102,8 @@ Microsoft Certified: Azure AI Fundamentals (2023.08)
 
 Goormthon univ. 1st semester Third Place (2023.11)
 
+2024 Google Solution Challange top 100 (2024.04)
+
 <br>
 <br>
 <br>
