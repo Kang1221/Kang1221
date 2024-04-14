@@ -66,24 +66,24 @@ SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 
 Tech4Good Hackathon from SK Telecom & HANA Financial Group (2023.09)
 
-Goormthon univ. EWHA 1st Memember  (2023.10 ~ 2023.12)
+Goormthon univ. EWHA 1st Member (2023.10 ~ 2023.12)
 
 Organizer of Devfest Cloud 2023 (2023.12) 
 
 
-AWS Cloud Clubs EWHA 1st Memember (2023.09 ~ 2024.02)
+AWS Cloud Clubs EWHA 1st Member (2023.09 ~ 2024.02)
 
 GDSC Snowflowerthon Participation (2024.01)
 
 <br>
 
-Google Developer Student Clubs EWHA 5th Core Memember (2023.08 ~ PRESENT)
+Google Developer Student Clubs EWHA 5th Core Member (2023.08 ~ PRESENT)
 
 Goormthon univ. EWHA 2nd President  (2024.01 ~ PRESENT)
 
 Preparatory committee for Data Conference 데이터야놀자 2024 (2024.02 ~ PRESENT)
 
-AWS Cloud Clubs EWHA 2nd Memember (2024.03 ~ PRESENT)
+AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ PRESENT)
 
 <br>
 <br>
