@@ -43,47 +43,62 @@ Here are some ideas to get you started:
 
 ### ✓ Experience
 
+#### 2024
 
-EWHA Womans University, Computer Science Engineering    (2020.03 ~ PRESNET)
-
-EWHA WI-CORPS start-up competition, I-CORE course                              (2021.12 ~ 2022.2)
-
-<br>
-
-DeepDaiv textmining course (2022.01 ~ 2022.03)                              
-
-EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course  (2022.07)
-
-IT Club Cotato 4th & 5th Member  (2022.09~ 2023.02)
-
-<br>
-
-IT Club Cotato 6th Management Member (2023.02 ~ 2023.06)
-
-Data Conference 데이터야놀자 2023 - Preparatory committee (2023.05 ~ 2023.10)
-  
-SKT fly AI 3rd semester (2023.06 ~ 2023.09)
-
-SK Telecom & HANA Financial Group Tech4Good Hackathon (2023.09)
-
-Goormthon univ. EWHA 1st Member (2023.10 ~ 2023.12)
-
-Devfest Cloud 2023 Organizer (2023.12) 
-
-
-AWS Cloud Clubs EWHA 1st Member (2023.09 ~ 2024.02)
-
-GDSC Snowflowerthon Participation (2024.01)
-
-<br>
-
-Google Developer Student Clubs EWHA 5th Core Member (2023.08 ~ PRESENT)
-
-Goormthon univ. EWHA 2nd President  (2024.01 ~ PRESENT)
+AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ PRESENT)
 
 Preparatory committee for Data Conference 데이터야놀자 2024 (2024.02 ~ PRESENT)
 
-AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ PRESENT)
+Goormthon univ. EWHA 2nd President  (2024.01 ~ PRESENT)
+
+GDSC Snowflowerthon Participation (2024.01)
+
+
+<br>
+
+
+#### 2023
+
+Google Developer Student Clubs EWHA 5th Core Member (2023.08 ~ PRESENT)
+
+Devfest Cloud 2023 Organizer (2023.12) 
+
+Goormthon univ. EWHA 1st Member (2023.10 ~ 2023.12)
+
+SK Telecom & HANA Financial Group Tech4Good Hackathon (2023.09)
+
+SKT FLY AI 3rd semester (2023.06 ~ 2023.09)
+
+Data Conference 데이터야놀자 2023 - Preparatory committee (2023.05 ~ 2023.10)
+
+IT Club Cotato 6th Management Member (2023.02 ~ 2023.06)
+
+
+
+
+<br>
+
+
+#### 2022
+
+IT Club Cotato 4th & 5th Member  (2022.09~ 2023.02)
+
+EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course  (2022.07)
+
+DeepDaiv textmining course (2022.01 ~ 2022.03)                              
+
+
+
+<br>
+
+#### 2020 - 2021
+
+EWHA WI-CORPS start-up competition, I-CORE course                              (2021.12 ~ 2022.2)
+EWHA Womans University, Computer Science Engineering    (2020.03 ~ PRESNET)
+
+
+
+
 
 <br>
 <br>
@@ -94,15 +109,17 @@ TOPCIT LEVEL 3. (2022.11)
 
 Microsoft Certified: Azure AI Fundamentals (2023.08)
 
-2022 EWHA Engineering Capstone Design Contest Second Place  (2022.12)
+<br>
 
-2023 EWHA Womans University capstone design project poster session Second Place (2023.06)
+2022 EWHA Engineering Capstone Design Contest, Second Place  (2022.12)
 
-2023 SKT FLY AI 3rd semester First Place for team project (2023.08)
+2023 EWHA Womans University capstone design project poster session, Second Place (2023.06)
 
-Goormthon univ. 1st semester Third Place (2023.11)
+2023 SKT FLY AI 3rd semester, First Place (2023.08)
 
-2024 Google Solution Challange top 100 (2024.04)
+Goormthon univ. 1st semester, Third Place (2023.11)
+
+2024 Google Solution Challange, top 100 (2024.04)
 
 <br>
 <br>
