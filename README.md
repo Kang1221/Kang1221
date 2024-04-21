@@ -54,21 +54,21 @@ DeepDaiv textmining course (2022.01 ~ 2022.03)
 
 EPITA(L'ÉCOLE DES INGÉNIEURS EN INTELLIGENCE INFORMATIQUE) summer program AI course  (2022.07)
 
-Member of Cotato IT Club  (2022.09~ 2023.02)
+IT Club Cotato 4th & 5th Member  (2022.09~ 2023.02)
 
 <br>
 
-Management Member of Cotato IT Club (2023.02 ~ 2023.06)
+IT Club Cotato 6th Management Member (2023.02 ~ 2023.06)
 
-Preparatory committee for Data Conference 데이터야놀자 2023 (2023.05 ~ 2023.10)
+Data Conference 데이터야놀자 2023 - Preparatory committee (2023.05 ~ 2023.10)
   
 SKT fly AI 3rd semester (2023.06 ~ 2023.09)
 
-Tech4Good Hackathon from SK Telecom & HANA Financial Group (2023.09)
+SK Telecom & HANA Financial Group Tech4Good Hackathon (2023.09)
 
 Goormthon univ. EWHA 1st Member (2023.10 ~ 2023.12)
 
-Organizer of Devfest Cloud 2023 (2023.12) 
+Devfest Cloud 2023 Organizer (2023.12) 
 
 
 AWS Cloud Clubs EWHA 1st Member (2023.09 ~ 2024.02)
