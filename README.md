@@ -94,6 +94,8 @@ DeepDaiv textmining course (2022.01 ~ 2022.03)
 #### 2020 - 2021
 
 EWHA WI-CORPS start-up competition, I-CORE course                              (2021.12 ~ 2022.2)
+
+
 EWHA Womans University, Computer Science Engineering    (2020.03 ~ PRESNET)
 
 
