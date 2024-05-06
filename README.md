@@ -59,6 +59,8 @@ GDSC Snowflowerthon Participation (2024.01)
 
 #### 2023
 
+AWS Cloud Clubs EWHA 1st Member (2023.09 ~ 2024.03)
+
 Google Developer Student Clubs EWHA 5th Core Member (2023.08 ~ PRESENT)
 
 Devfest Cloud 2023 Organizer (2023.12) 
