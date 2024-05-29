@@ -125,6 +125,8 @@ Goormthon univ. 1st semester, Third Place (2023.11)
 
 2024 Google Solution Challange, Global top 100 (2024.04)
 
+2024 Google Solution Challange, Global top 10 (2024.05)
+
 <br>
 <br>
 <br>
