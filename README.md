@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 ### Welcome to Yeonsoo's github! 🤗
  I'm interested in Java Spring boot, JPA, infra nowadays. 
 
+<br>
+
+####  ✓ Contact Me
+Gmail: <kang6@ewhain.net>
+
+LinkedIn: <https://www.linkedin.com/in/yeonsoo-kang/>
+
+Velog: <https://velog.io/@kang1221>
 
 
 <br>
@@ -131,12 +139,6 @@ Goormthon univ. 1st semester, Third Place (2023.11)
 <br>
 <br>
 
-###  ✓ Contact Me
-Gmail: <kang6@ewhain.net>
-
-LinkedIn: <https://www.linkedin.com/in/yeonsoo-kang/>
-
-Velog: <https://velog.io/@kang1221>
 
 
 
