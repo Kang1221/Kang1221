@@ -55,9 +55,9 @@ Velog: <https://velog.io/@kang1221>
 
 AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ PRESENT)
 
-Preparatory committee for Data Conference 데이터야놀자 2024 (2024.02 ~ PRESENT)
-
 Goormthon univ. EWHA 2nd President  (2024.01 ~ PRESENT)
+
+Preparatory committee for Data Conference 데이터야놀자 2024 (2024.02 ~ 2024.06)
 
 GDSC Snowflowerthon Participation (2024.01)
 
