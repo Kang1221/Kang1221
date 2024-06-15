@@ -42,7 +42,7 @@ Velog: <https://velog.io/@kang1221>
 
 AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ PRESENT)
 
-Goormthon univ. EWHA 2nd President  (2024.01 ~ PRESENT)
+Goormthon univ. EWHA 2nd President  (2024.01 ~ 2024.06)
 
 Preparatory committee for Data Conference 데이터야놀자 2024 (2024.02 ~ 2024.06)
 
@@ -56,7 +56,7 @@ GDSC Snowflowerthon Participation (2024.01)
 
 AWS Cloud Clubs EWHA 1st Member (2023.09 ~ 2024.03)
 
-Google Developer Student Clubs EWHA 5th Core Member (2023.08 ~ PRESENT)
+Google Developer Student Clubs EWHA 5th Core Member (2023.08 ~ 2024.06)
 
 Devfest Cloud 2023 Organizer (2023.12) 
 
