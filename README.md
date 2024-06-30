@@ -110,17 +110,19 @@ Microsoft Certified: Azure AI Fundamentals (2023.08)
 
 <br>
 
-2022 EWHA Engineering Capstone Design Contest, Second Place  (2022.12)
-
-2023 EWHA Womans University capstone design project poster session, Second Place (2023.06)
-
-2023 SKT FLY AI 3rd semester, First Place (2023.08)
-
-Goormthon univ. 1st semester, Third Place (2023.11)
+2024 Google Solution Challange, Global top 10 (2024.05)
 
 2024 Google Solution Challange, Global top 100 (2024.04)
 
-2024 Google Solution Challange, Global top 10 (2024.05)
+Goormthon univ. 1st semester, Third Place (2023.11)
+
+2023 SKT FLY AI 3rd semester, First Place (2023.08)
+
+2023 EWHA Womans University capstone design project poster session, Second Place (2023.06)
+
+2022 EWHA Engineering Capstone Design Contest, Second Place  (2022.12)
+
+
 
 <br>
 <br>
