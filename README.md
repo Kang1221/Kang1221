@@ -104,9 +104,10 @@ EWHA Womans University, Computer Science Engineering    (2020.03 ~ PRESNET)
 <br> 
 
 ###  ✓  Certifications & Awards
+Microsoft Certified: Azure AI Fundamentals (2023.08)
+
 TOPCIT LEVEL 3. (2022.11)
 
-Microsoft Certified: Azure AI Fundamentals (2023.08)
 
 <br>
 
