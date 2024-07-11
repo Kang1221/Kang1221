@@ -111,7 +111,7 @@ TOPCIT LEVEL 3. (2022.11)
 
 <br>
 
-2024 GDSC Ewha excellent study (2024.06)
+2024 GDSC Ewha Excellent Study (2024.06)
 
 2024 Google Solution Challange, Global top 10 (2024.05)
 
