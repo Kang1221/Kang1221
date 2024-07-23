@@ -133,6 +133,3 @@ Goormthon univ. 1st semester, Third Place (2023.11)
 
 
 
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyssa0606)](https://solved.ac/kyssa0606/) -->
-
