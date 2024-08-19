@@ -119,6 +119,10 @@ The 1st National University Student Achievement Forum, Second Place (2024.08)
 
 2024 Google Solution Challange, Global top 100 (2024.04)
 
+
+<br> 
+
+
 Goormthon univ. 1st semester, Third Place (2023.11)
 
 2023 SKT FLY AI 3rd semester, First Place (2023.08)
