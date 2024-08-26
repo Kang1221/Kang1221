@@ -40,6 +40,8 @@ Velog: <https://velog.io/@kang1221>
 
 #### 2024
 
+2024 SK Telecom & HANA Financial Group Tech4Good Hackathon (2024.08)
+
 AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ PRESENT)
 
 Goormthon univ. EWHA 2nd President  (2024.01 ~ 2024.06)
@@ -62,7 +64,7 @@ Devfest Cloud 2023 Organizer (2023.12)
 
 Goormthon univ. EWHA 1st Member (2023.10 ~ 2023.12)
 
-SK Telecom & HANA Financial Group Tech4Good Hackathon (2023.09)
+2023 SK Telecom & HANA Financial Group Tech4Good Hackathon (2023.09)
 
 SKT FLY AI 3rd semester (2023.06 ~ 2023.09)
 
@@ -110,6 +112,8 @@ TOPCIT LEVEL 3. (2022.11)
 
 
 <br>
+
+2024 SK Telecom & HANA Financial Group Tech4Good Hackathon, Second Place (2024.08)
 
 The 1st National University Student Achievement Forum, Second Place (2024.08)
 
