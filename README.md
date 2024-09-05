@@ -40,12 +40,12 @@ Velog: <https://velog.io/@kang1221>
 
 #### 2024
 
-Co-founder/Backend developer of "Dedicated second-hand trading platform for delivery products, DDANZI" 
+Co-founder/Backend developer of "Dedicated second-hand trading platform for delivery products, DDANZI" (2024.06 ~ now)
 
 
 2024 SK Telecom & HANA Financial Group Tech4Good Hackathon (2024.08)
 
-AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ PRESENT)
+AWS Cloud Clubs EWHA 2nd Member (2024.03 ~ 2024.08)
 
 Goormthon univ. EWHA 2nd President  (2024.01 ~ 2024.06)
 
