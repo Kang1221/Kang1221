@@ -7,7 +7,7 @@
 <br>
 
 ####  ✓ Contact Me
-Gmail: <kang6@ewhain.net>
+Gmail: <kyssa0606@gmail.com>
 
 LinkedIn: <https://www.linkedin.com/in/yeonsoo-kang/>
 
