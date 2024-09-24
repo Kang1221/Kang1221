@@ -116,9 +116,9 @@ TOPCIT LEVEL 3. (2022.11)
 
 <br>
 
-2024 SK Telecom & HANA Financial Group Tech4Good Hackathon, Second Place (2024.08)
+2024 SK Telecom & HANA Financial Group Tech4Good Hackathon, Best award (2024.08)
 
-The 1st National University Student Achievement Forum, Second Place (2024.08)
+The 1st National University Student Achievement Forum, Best award (2024.08)
 
 2024 GDSC Ewha Excellent Study (2024.06)
 
@@ -130,13 +130,13 @@ The 1st National University Student Achievement Forum, Second Place (2024.08)
 <br> 
 
 
-Goormthon univ. 1st semester, Third Place (2023.11)
+Goormthon univ. 1st semester, Excellence award (2023.11)
 
-2023 SKT FLY AI 3rd semester, First Place (2023.08)
+2023 SKT FLY AI 3rd semester, Grand prize (2023.08)
 
-2023 EWHA Womans University capstone design project poster session, Second Place (2023.06)
+2023 EWHA Womans University capstone design project poster session, Best award (2023.06)
 
-2022 EWHA Engineering Capstone Design Contest, Second Place  (2022.12)
+2022 EWHA Engineering Capstone Design Contest, Best award  (2022.12)
 
 
 
