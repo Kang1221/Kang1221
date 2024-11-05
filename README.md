@@ -45,6 +45,7 @@ Velog: <https://velog.io/@kang1221>
 
 Co-founder/Backend developer of "Dedicated second-hand trading platform for delivery products, DDANZI" (2024.06 ~ now)
 
+2024 Unid-thon (2024.11)
 
 2024 SK Telecom & HANA Financial Group Tech4Good Hackathon (2024.08)
 
@@ -119,13 +120,15 @@ TOPCIT LEVEL 3. (2022.11)
 
 <br>
 
+2024 Unid-thon, Grand prize (2024.11)
+
 2024 SK Telecom & HANA Financial Group Tech4Good Hackathon, Best award (2024.08)
 
 The 1st National University Student Achievement Forum, Best award (2024.08)
 
 2024 GDSC Ewha Excellent Study (2024.06)
 
-2024 Google Solution Challange, Global top 10 (2024.05)
+**2024 Google Solution Challange, Global top 10 (2024.05)**
 
 2024 Google Solution Challange, Global top 100 (2024.04)
 
@@ -135,7 +138,7 @@ The 1st National University Student Achievement Forum, Best award (2024.08)
 
 Goormthon univ. 1st semester, Excellence award (2023.11)
 
-2023 SKT FLY AI 3rd semester, Grand prize (2023.08)
+**2023 SKT FLY AI 3rd semester, Grand prize (2023.08)**
 
 2023 EWHA Womans University capstone design project poster session, Best award (2023.06)
 
