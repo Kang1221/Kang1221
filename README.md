@@ -120,6 +120,8 @@ TOPCIT LEVEL 3. (2022.11)
 
 <br>
 
+Ewha Womans University Challenge Semester Excellence Award (2025.01)
+
 2024 Unid-thon, Grand prize (2024.11)
 
 2024 SK Telecom & HANA Financial Group Tech4Good Hackathon, Best award (2024.08)
